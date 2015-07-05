@@ -5,7 +5,7 @@
  * Copyright (c) <2014> <Lars Harmsen - Quchen>
  */
 
-package com.quchen.flappycow;
+package com.ibaks.flying;
 
 import android.app.Activity;
 import android.content.pm.PackageManager.NameNotFoundException;
